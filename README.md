@@ -1,4 +1,4 @@
-# Estudos de testes Automatizados #<br>
+# Estudos de testes Automatizados #
 Para executar localmente o projeto, siga os passos:<br>
 
 1.Faça o clone ou download do projeto.<br>
